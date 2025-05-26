@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doganay\\Desktop\\leetcode\\Roman To Integer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA6EA4C-6DBE-48F5-A067-2DAFE6BA87C9}|Roman To Integer\\Roman To Integer.vcxproj|C:\\Users\\doganay\\Desktop\\leetcode\\Roman To Integer\\Roman To Integer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ECA6EA4C-6DBE-48F5-A067-2DAFE6BA87C9}|Roman To Integer\\Roman To Integer.vcxproj|solutionrelative:Roman To Integer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\doganay\\Desktop\\leetcode\\Roman To Integer\\Roman To Integer\\main.cpp",
+              "RelativeDocumentMoniker": "Roman To Integer\\main.cpp",
+              "ToolTip": "C:\\Users\\doganay\\Desktop\\leetcode\\Roman To Integer\\Roman To Integer\\main.cpp",
+              "RelativeToolTip": "Roman To Integer\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-25T19:46:28.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

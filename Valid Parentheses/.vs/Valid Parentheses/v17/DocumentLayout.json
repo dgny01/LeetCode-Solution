@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doganay\\Desktop\\leetcode\\Valid Parentheses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{619C4C9D-A709-4C65-988B-401607BC9607}|Valid Parentheses\\Valid Parentheses.vcxproj|C:\\Users\\doganay\\Desktop\\leetcode\\Valid Parentheses\\Valid Parentheses\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{619C4C9D-A709-4C65-988B-401607BC9607}|Valid Parentheses\\Valid Parentheses.vcxproj|solutionrelative:Valid Parentheses\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\doganay\\Desktop\\leetcode\\Valid Parentheses\\Valid Parentheses\\main.cpp",
+              "RelativeDocumentMoniker": "Valid Parentheses\\main.cpp",
+              "ToolTip": "C:\\Users\\doganay\\Desktop\\leetcode\\Valid Parentheses\\Valid Parentheses\\main.cpp",
+              "RelativeToolTip": "Valid Parentheses\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T18:59:18.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

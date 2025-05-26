@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\doganay\\Desktop\\leetcode\\Count Primes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02A9B17B-8880-43B2-B9B7-5A115B52593C}|Count Primes\\Count Primes.vcxproj|C:\\Users\\doganay\\Desktop\\leetcode\\Count Primes\\Count Primes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{02A9B17B-8880-43B2-B9B7-5A115B52593C}|Count Primes\\Count Primes.vcxproj|solutionrelative:Count Primes\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\doganay\\Desktop\\leetcode\\Count Primes\\Count Primes\\main.cpp",
+              "RelativeDocumentMoniker": "Count Primes\\main.cpp",
+              "ToolTip": "C:\\Users\\doganay\\Desktop\\leetcode\\Count Primes\\Count Primes\\main.cpp",
+              "RelativeToolTip": "Count Primes\\main.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T10:17:59.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
